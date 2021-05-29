@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227481823624",
+    "project_id": "crudfragment-b30e8",
+    "storage_bucket": "crudfragment-b30e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227481823624:android:58cc4dac8ed6767962723d",
+        "android_client_info": {
+          "package_name": "cat.copernic.esther.morales.crudfragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227481823624-gjrtqrr5ts06l11g6innc0u2ia82ql7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHVIJ4aGAFO3AXno1aXWaDT_JoingYHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227481823624-gjrtqrr5ts06l11g6innc0u2ia82ql7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
